@@ -13,4 +13,8 @@ juanandresmirandadiaz05@gmail.com
 Desarrollo de intrefaces
 Desarrollo de aplicaciones moviles
 Desarrollo de aplicaciones web
+## Herramientas
+Claude Code
+Frameworks
+Android Studio
 
