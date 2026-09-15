@@ -7,3 +7,5 @@ y en familiarizarme con el lenguaje kotlin y sus entornos de desarrollo
 ## Idiomas
 Español nativo
 Ingles c1
+##Contacto
+juanandresmirandadiaz05@gmail.com
