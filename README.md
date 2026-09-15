@@ -9,8 +9,13 @@ Español nativo
 Ingles c1
 ## Contacto
 juanandresmirandadiaz05@gmail.com
+Juan Andres Miranda
 ## Habilidades
 Desarrollo de intrefaces
 Desarrollo de aplicaciones moviles
 Desarrollo de aplicaciones web
+## Herramientas
+Claude Code
+Frameworks
+Android Studio
 
