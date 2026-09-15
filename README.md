@@ -9,3 +9,8 @@ Español nativo
 Ingles c1
 ## Contacto
 juanandresmirandadiaz05@gmail.com
+## Habilidades
+Desarrollo de intrefaces
+Desarrollo de aplicaciones moviles
+Desarrollo de aplicaciones web
+
